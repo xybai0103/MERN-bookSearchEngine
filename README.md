@@ -4,7 +4,7 @@
 
 This is a Book search engine based on Google Books API. By using this app, you can search for new books to read and keep a list of books to purchase. The app was built using the MERN stack with a [React](https://www.npmjs.com/package/react) front end, [MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) database, Node.js/Express.js server, and [GraphQL](https://www.npmjs.com/package/graphql) API built with [ApolloServer](https://www.npmjs.com/package/@apollo/server).
 
-![ScreenShot](./public/images/my-react-portfolio.png)
+![ScreenShot](./client/public/images/MERN-bookSearchEngine.png)
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ This is a Book search engine based on Google Books API. By using this app, you c
 
 ## Usage
 
-This application is deployed at: https://xybai0103.github.io/my-react-portfolio/
+This application is deployed at: https://shrouded-fjord-19250-07ae1cd52725.herokuapp.com/
 
 - GIVEN a book search engine
 - WHEN you load the search engine
